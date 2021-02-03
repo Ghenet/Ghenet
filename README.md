@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ghenet/Ghenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2> Hey there! I'm Ghenet.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
