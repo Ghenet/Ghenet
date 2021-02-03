@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h2> Hey there! I'm Ghenet.</h2>
+<h2> Hey there 👋 ! I'm Ghenet.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -41,9 +40,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ghenet-andemichael.netlify.app">Portfolio</a>
-<a href="https://www.linkedin.com/in/ghenet-andemichael/">LinkedIn</a>
-
+<a href="https://ghenet-andemichael.netlify.app">Portfolio</a> | 
+<a href="https://www.linkedin.com/in/ghenet-andemichael/">LinkedIn</a> | 
 <a href="mailto:ghenet.andemichael@gmail.com">Email</a>
 </p>
 
