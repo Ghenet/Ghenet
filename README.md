@@ -9,7 +9,8 @@
 - 😄 Pronouns: She/Her
 - ✍️🌱&nbsp; Pursuing Graphic Design, baking and learning new "Human" languages(spanish,swahili) as hobbies/side hustles.
 
-<h3> 💻 &nbsp; 🛠 &nbsp;Tech Stack</h3> &nbsp;
+<h3> 🛠 &nbsp;Tech Stack</h3> &nbsp;
+-  💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
