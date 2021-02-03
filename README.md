@@ -5,9 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at Eritrean Institute of Technology.
-- 💼 &nbsp; Actively looking for a new role.
-- 😄 Pronouns: ...
+- 🎓 &nbsp; Studied Computer Science at Eritrea Institute of Technology & Adobe Digital Academy Scholar.
+- 💼 &nbsp; Actively looking for a new role.My last Software Engineering role was at Adobe.
+- 😄 Pronouns: She/Her
 - ✍️🌱&nbsp; Pursuing Graphic Design, baking and learning new "Human" languages(spanish,swahili) as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -17,7 +17,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
  
