@@ -6,8 +6,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science at Eritrea Institute of Technology & Adobe Digital Academy Scholar.
 - 💼 &nbsp; Actively looking for a new role.My last Software Engineering role was at Adobe.
-- 😄 Pronouns: She/Her
-- ✍️🌱&nbsp; Pursuing Graphic Design, baking and learning new "Human" languages(spanish,swahili) as hobbies/side hustles.
+- 😄 &nbsp; Pronouns: She/Her
+- ✍️🌱&nbsp; Pursuing Digital Art, baking and learning new "Human" languages(spanish,swahili) as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -30,8 +30,9 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  
 - 🖥 &nbsp;
+  ![Procreate]
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
@@ -45,6 +46,6 @@
 <a href="mailto:ghenet.andemichael@gmail.com">Email</a>
 </p>
 
-⭐️ From [Ghenet](https://github.com/Ghenet)
+⭐️  &nbsp;From [Ghenet](https://github.com/Ghenet)
 
 
