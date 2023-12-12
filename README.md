@@ -5,7 +5,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science at Eritrea Institute of Technology & Adobe Digital Academy Scholar.
-- 💼 &nbsp; Actively looking for a new role.My last Software Engineering role was at Adobe.
 - 😄 &nbsp; Pronouns: She/Her
 - ✍️🌱&nbsp; Pursuing Digital Art, baking and learning new "Human" languages(spanish,swahili) as hobbies.
 
